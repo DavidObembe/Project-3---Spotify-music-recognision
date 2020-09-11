@@ -1,0 +1,51 @@
+https://www.globe.com.ph/go/entertainment/article/new-tracks-spotify-august-2020.html#gref
+
+my future by Billie Eilish
+track ID: 2ygvZOXrIeVL4xZmAWJT2C
+https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5
+{
+  "danceability": 0.444,
+  "energy": 0.309,
+  "key": 8,
+  "loudness": -10.956,
+  "mode": 1,
+  "speechiness": 0.062,
+  "acousticness": 0.795,
+  "instrumentalness": 0.132,
+  "liveness": 0.352,
+  "valence": 0.0875,
+  "tempo": 104.745,
+  "type": "audio_features",
+  "id": "2ygvZOXrIeVL4xZmAWJT2C",
+  "uri": "spotify:track:2ygvZOXrIeVL4xZmAWJT2C",
+  "track_href": "https://api.spotify.com/v1/tracks/2ygvZOXrIeVL4xZmAWJT2C",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/2ygvZOXrIeVL4xZmAWJT2C",
+  "duration_ms": 208155,
+  "time_signature": 4
+}
+
+
+Reckoning by Alanis Morissette
+track ID: 6GYc359apC4J1xMJc3GMNv
+https://open.spotify.com/album/2eOvsabOLLh9ibyANQiFFM?highlight=spotify:track:6GYc359apC4J1xMJc3GMNv
+
+{
+  "danceability": 0.31,
+  "energy": 0.627,
+  "key": 10,
+  "loudness": -6.679,
+  "mode": 0,
+  "speechiness": 0.0429,
+  "acousticness": 0.621,
+  "instrumentalness": 0.0000954,
+  "liveness": 0.13,
+  "valence": 0.158,
+  "tempo": 118.319,
+  "type": "audio_features",
+  "id": "6GYc359apC4J1xMJc3GMNv",
+  "uri": "spotify:track:6GYc359apC4J1xMJc3GMNv",
+  "track_href": "https://api.spotify.com/v1/tracks/6GYc359apC4J1xMJc3GMNv",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/6GYc359apC4J1xMJc3GMNv",
+  "duration_ms": 205400,
+  "time_signature": 4
+}
