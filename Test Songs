@@ -1,4 +1,6 @@
 https://www.globe.com.ph/go/entertainment/article/new-tracks-spotify-august-2020.html#gref
+https://developer.spotify.com/console/get-audio-features-track/
+
 
 my future by Billie Eilish
 track ID: 2ygvZOXrIeVL4xZmAWJT2C
@@ -47,5 +49,480 @@ https://open.spotify.com/album/2eOvsabOLLh9ibyANQiFFM?highlight=spotify:track:6G
   "track_href": "https://api.spotify.com/v1/tracks/6GYc359apC4J1xMJc3GMNv",
   "analysis_url": "https://api.spotify.com/v1/audio-analysis/6GYc359apC4J1xMJc3GMNv",
   "duration_ms": 205400,
+  "time_signature": 4
+}
+
+
+August 2020 Releases
+===========================================
+Country
+
+
+Rap
+
+
+
+WAP
+
+R&B
+
+
+classical
+Chad Lawson "In the Waiting"
+https://open.spotify.com/track/0WzetzBykY3fl41dEJjoYa
+{
+  "danceability": 0.337,
+  "energy": 0.0111,
+  "key": 0,
+  "loudness": -27.273,
+  "mode": 1,
+  "speechiness": 0.0456,
+  "acousticness": 0.991,
+  "instrumentalness": 0.958,
+  "liveness": 0.0886,
+  "valence": 0.148,
+  "tempo": 75.69,
+  "type": "audio_features",
+  "id": "0WzetzBykY3fl41dEJjoYa",
+  "uri": "spotify:track:0WzetzBykY3fl41dEJjoYa",
+  "track_href": "https://api.spotify.com/v1/tracks/0WzetzBykY3fl41dEJjoYa",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/0WzetzBykY3fl41dEJjoYa",
+  "duration_ms": 159208,
+  "time_signature": 5
+}
+
+country
+Rascal Flatts, “How They Remember You”
+https://open.spotify.com/track/3qwPYg8xTWPafQD3YUNaTU
+{
+  "danceability": 0.442,
+  "energy": 0.8,
+  "key": 2,
+  "loudness": -5.12,
+  "mode": 1,
+  "speechiness": 0.0368,
+  "acousticness": 0.0124,
+  "instrumentalness": 0,
+  "liveness": 0.0785,
+  "valence": 0.498,
+  "tempo": 152.004,
+  "type": "audio_features",
+  "id": "3qwPYg8xTWPafQD3YUNaTU",
+  "uri": "spotify:track:3qwPYg8xTWPafQD3YUNaTU",
+  "track_href": "https://api.spotify.com/v1/tracks/3qwPYg8xTWPafQD3YUNaTU",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/3qwPYg8xTWPafQD3YUNaTU",
+  "duration_ms": 211707,
+  "time_signature": 4
+}
+
+
+Tenille Townes - Holding Out for the One
+https://open.spotify.com/track/7IN4uBTZZK2KJ4tjBL44xU
+{
+  "danceability": 0.6,
+  "energy": 0.742,
+  "key": 6,
+  "loudness": -4.135,
+  "mode": 1,
+  "speechiness": 0.0379,
+  "acousticness": 0.00716,
+  "instrumentalness": 0,
+  "liveness": 0.363,
+  "valence": 0.796,
+  "tempo": 85.008,
+  "type": "audio_features",
+  "id": "7IN4uBTZZK2KJ4tjBL44xU",
+  "uri": "spotify:track:7IN4uBTZZK2KJ4tjBL44xU",
+  "track_href": "https://api.spotify.com/v1/tracks/7IN4uBTZZK2KJ4tjBL44xU",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/7IN4uBTZZK2KJ4tjBL44xU",
+  "duration_ms": 195187,
+  "time_signature": 4
+}
+
+electronic
+David Guetta,Sia "Let's Love"
+https://open.spotify.com/track/6lhZLbb0czULpjb2kFryPS?si=1kIvoYZ_R7is26bsG9gVyA
+{
+  "danceability": 0.662,
+  "energy": 0.868,
+  "key": 5,
+  "loudness": -4.025,
+  "mode": 1,
+  "speechiness": 0.0341,
+  "acousticness": 0.00882,
+  "instrumentalness": 0.00244,
+  "liveness": 0.584,
+  "valence": 0.353,
+  "tempo": 92.998,
+  "type": "audio_features",
+  "id": "6lhZLbb0czULpjb2kFryPS",
+  "uri": "spotify:track:6lhZLbb0czULpjb2kFryPS",
+  "track_href": "https://api.spotify.com/v1/tracks/6lhZLbb0czULpjb2kFryPS",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/6lhZLbb0czULpjb2kFryPS",
+  "duration_ms": 200645,
+  "time_signature": 4
+}
+
+
+indie
+Giant Rooks - "Misinterpretations"
+https://open.spotify.com/track/7a4iLgRkkk6Xb7M6yc9Rh2
+{
+  "danceability": 0.53,
+  "energy": 0.869,
+  "key": 10,
+  "loudness": -3.542,
+  "mode": 0,
+  "speechiness": 0.0425,
+  "acousticness": 0.0199,
+  "instrumentalness": 0.000365,
+  "liveness": 0.13,
+  "valence": 0.531,
+  "tempo": 153.06,
+  "type": "audio_features",
+  "id": "7a4iLgRkkk6Xb7M6yc9Rh2",
+  "uri": "spotify:track:7a4iLgRkkk6Xb7M6yc9Rh2",
+  "track_href": "https://api.spotify.com/v1/tracks/7a4iLgRkkk6Xb7M6yc9Rh2",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/7a4iLgRkkk6Xb7M6yc9Rh2",
+  "duration_ms": 292733,
+  "time_signature": 4
+}
+
+
+jazz (instrumental)
+Instrumental Jazz Music Guys - "Just Smile"
+https://open.spotify.com/track/4IG1XgvlkeWmTK00mdNGB0
+{
+  "danceability": 0.599,
+  "energy": 0.177,
+  "key": 0,
+  "loudness": -14.621,
+  "mode": 1,
+  "speechiness": 0.0509,
+  "acousticness": 0.98,
+  "instrumentalness": 0.577,
+  "liveness": 0.138,
+  "valence": 0.507,
+  "tempo": 115.325,
+  "type": "audio_features",
+  "id": "4IG1XgvlkeWmTK00mdNGB0",
+  "uri": "spotify:track:4IG1XgvlkeWmTK00mdNGB0",
+  "track_href": "https://api.spotify.com/v1/tracks/4IG1XgvlkeWmTK00mdNGB0",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/4IG1XgvlkeWmTK00mdNGB0",
+  "duration_ms": 258341,
+  "time_signature": 4
+}
+
+
+
+
+latin
+Christian Nodal - "Nace Un Borracho"
+https://open.spotify.com/track/6SnO4yCCYtz2rffMpEAlro
+{
+  "danceability": 0.626,
+  "energy": 0.47,
+  "key": 0,
+  "loudness": -2.984,
+  "mode": 1,
+  "speechiness": 0.0316,
+  "acousticness": 0.522,
+  "instrumentalness": 0,
+  "liveness": 0.201,
+  "valence": 0.825,
+  "tempo": 140.046,
+  "type": "audio_features",
+  "id": "6SnO4yCCYtz2rffMpEAlro",
+  "uri": "spotify:track:6SnO4yCCYtz2rffMpEAlro",
+  "track_href": "https://api.spotify.com/v1/tracks/6SnO4yCCYtz2rffMpEAlro",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/6SnO4yCCYtz2rffMpEAlro",
+  "duration_ms": 176347,
+  "time_signature": 3
+}
+
+pop
+Taylor Swift - "cardigan"
+https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd
+{
+  "danceability": 0.613,
+  "energy": 0.581,
+  "key": 0,
+  "loudness": -8.588,
+  "mode": 0,
+  "speechiness": 0.0424,
+  "acousticness": 0.537,
+  "instrumentalness": 0.000345,
+  "liveness": 0.25,
+  "valence": 0.551,
+  "tempo": 130.033,
+  "type": "audio_features",
+  "id": "4R2kfaDFhslZEMJqAFNpdd",
+  "uri": "spotify:track:4R2kfaDFhslZEMJqAFNpdd",
+  "track_href": "https://api.spotify.com/v1/tracks/4R2kfaDFhslZEMJqAFNpdd",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/4R2kfaDFhslZEMJqAFNpdd",
+  "duration_ms": 239560,
+  "time_signature": 4
+}
+
+Justin Bieber,Quavo - "Intentions (feat. Quavo)"
+https://open.spotify.com/track/364dI1bYnvamSnBJ8JcNzN
+{
+  "danceability": 0.811,
+  "energy": 0.553,
+  "key": 9,
+  "loudness": -6.644,
+  "mode": 1,
+  "speechiness": 0.0552,
+  "acousticness": 0.317,
+  "instrumentalness": 0,
+  "liveness": 0.105,
+  "valence": 0.86,
+  "tempo": 148.014,
+  "type": "audio_features",
+  "id": "364dI1bYnvamSnBJ8JcNzN",
+  "uri": "spotify:track:364dI1bYnvamSnBJ8JcNzN",
+  "track_href": "https://api.spotify.com/v1/tracks/364dI1bYnvamSnBJ8JcNzN",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/364dI1bYnvamSnBJ8JcNzN",
+  "duration_ms": 212869,
+  "time_signature": 4
+}
+
+
+r&b
+John Legend - Wild (feat. Gary Clark Jr.) (Official Video)
+https://open.spotify.com/track/4rVW6XqAsSaf5vOwc8FREW
+{
+  "danceability": 0.557,
+  "energy": 0.585,
+  "key": 8,
+  "loudness": -6.201,
+  "mode": 1,
+  "speechiness": 0.0431,
+  "acousticness": 0.036,
+  "instrumentalness": 0,
+  "liveness": 0.176,
+  "valence": 0.305,
+  "tempo": 63.392,
+  "type": "audio_features",
+  "id": "4rVW6XqAsSaf5vOwc8FREW",
+  "uri": "spotify:track:4rVW6XqAsSaf5vOwc8FREW",
+  "track_href": "https://api.spotify.com/v1/tracks/4rVW6XqAsSaf5vOwc8FREW",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/4rVW6XqAsSaf5vOwc8FREW",
+  "duration_ms": 196907,
+  "time_signature": 4
+}
+
+
+PARTYNEXTDOOR, Rihanna - BELIEVE IT
+https://open.spotify.com/track/4HDCLYli2SUdkq9OjmvhSD
+{
+  "danceability": 0.43,
+  "energy": 0.7,
+  "key": 6,
+  "loudness": -5.35,
+  "mode": 1,
+  "speechiness": 0.264,
+  "acousticness": 0.0902,
+  "instrumentalness": 0,
+  "liveness": 0.216,
+  "valence": 0.731,
+  "tempo": 158.373,
+  "type": "audio_features",
+  "id": "4HDCLYli2SUdkq9OjmvhSD",
+  "uri": "spotify:track:4HDCLYli2SUdkq9OjmvhSD",
+  "track_href": "https://api.spotify.com/v1/tracks/4HDCLYli2SUdkq9OjmvhSD",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/4HDCLYli2SUdkq9OjmvhSD",
+  "duration_ms": 183219,
+  "time_signature": 4
+}
+
+rap
+DJ Khaled ft. Drake - POPSTAR
+https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq
+{
+  "danceability": 0.8,
+  "energy": 0.56,
+  "key": 5,
+  "loudness": -4.818,
+  "mode": 0,
+  "speechiness": 0.261,
+  "acousticness": 0.057,
+  "instrumentalness": 0,
+  "liveness": 0.134,
+  "valence": 0.45,
+  "tempo": 163.071,
+  "type": "audio_features",
+  "id": "6EDO9iiTtwNv6waLwa1UUq",
+  "uri": "spotify:track:6EDO9iiTtwNv6waLwa1UUq",
+  "track_href": "https://api.spotify.com/v1/tracks/6EDO9iiTtwNv6waLwa1UUq",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/6EDO9iiTtwNv6waLwa1UUq",
+  "duration_ms": 200221,
+  "time_signature": 4
+}
+
+Drake, Lil Durk  - Laugh Now Cry Later (feat. Lil Durk)
+https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI
+{
+  "danceability": 0.761,
+  "energy": 0.518,
+  "key": 0,
+  "loudness": -8.871,
+  "mode": 1,
+  "speechiness": 0.134,
+  "acousticness": 0.244,
+  "instrumentalness": 0.0000347,
+  "liveness": 0.107,
+  "valence": 0.522,
+  "tempo": 133.976,
+  "type": "audio_features",
+  "id": "2SAqBLGA283SUiwJ3xOUVI",
+  "uri": "spotify:track:2SAqBLGA283SUiwJ3xOUVI",
+  "track_href": "https://api.spotify.com/v1/tracks/2SAqBLGA283SUiwJ3xOUVI",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/2SAqBLGA283SUiwJ3xOUVI",
+  "duration_ms": 261493,
+  "time_signature": 4
+}
+
+rock
+Bon Jovi - Limitless
+https://open.spotify.com/track/71JuDGXgyY7MbmXtldZ4C3
+{
+  "danceability": 0.438,
+  "energy": 0.826,
+  "key": 10,
+  "loudness": -5.454,
+  "mode": 1,
+  "speechiness": 0.075,
+  "acousticness": 0.00586,
+  "instrumentalness": 0.00000918,
+  "liveness": 0.362,
+  "valence": 0.378,
+  "tempo": 144.149,
+  "type": "audio_features",
+  "id": "71JuDGXgyY7MbmXtldZ4C3",
+  "uri": "spotify:track:71JuDGXgyY7MbmXtldZ4C3",
+  "track_href": "https://api.spotify.com/v1/tracks/71JuDGXgyY7MbmXtldZ4C3",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/71JuDGXgyY7MbmXtldZ4C3",
+  "duration_ms": 221947,
+  "time_signature": 4
+}
+
+Elton John,Ozzy Osbourne, Will Malone - Ordinary Man (feat. Elton John)
+https://open.spotify.com/track/6eEYGGFfFbtKHCgJM4uh9v
+{
+  "danceability": 0.428,
+  "energy": 0.599,
+  "key": 4,
+  "loudness": -2.135,
+  "mode": 1,
+  "speechiness": 0.0286,
+  "acousticness": 0.0665,
+  "instrumentalness": 0.00000986,
+  "liveness": 0.137,
+  "valence": 0.134,
+  "tempo": 125.83,
+  "type": "audio_features",
+  "id": "6eEYGGFfFbtKHCgJM4uh9v",
+  "uri": "spotify:track:6eEYGGFfFbtKHCgJM4uh9v",
+  "track_href": "https://api.spotify.com/v1/tracks/6eEYGGFfFbtKHCgJM4uh9v",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/6eEYGGFfFbtKHCgJM4uh9v",
+  "duration_ms": 301730,
+  "time_signature": 4
+}
+
+
+show_tunes (sountrack)
+John WilliamsLondon Symphony Orchestra - "Cantina Band"
+https://open.spotify.com/track/5ZSAdkQb23NPIcUGt6exdm
+{
+  "danceability": 0.699,
+  "energy": 0.419,
+  "key": 0,
+  "loudness": -15.133,
+  "mode": 1,
+  "speechiness": 0.134,
+  "acousticness": 0.255,
+  "instrumentalness": 0.0239,
+  "liveness": 0.0471,
+  "valence": 0.822,
+  "tempo": 131.629,
+  "type": "audio_features",
+  "id": "5ZSAdkQb23NPIcUGt6exdm",
+  "uri": "spotify:track:5ZSAdkQb23NPIcUGt6exdm",
+  "track_href": "https://api.spotify.com/v1/tracks/5ZSAdkQb23NPIcUGt6exdm",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/5ZSAdkQb23NPIcUGt6exdm",
+  "duration_ms": 164307,
+  "time_signature": 4
+}
+
+Original Broadway Cast Of Aint Too Proud - Get Ready
+https://open.spotify.com/track/7xSFdlmMq6Nbamxvfpjg3t
+{
+  "danceability": 0.674,
+  "energy": 0.656,
+  "key": 5,
+  "loudness": -7.171,
+  "mode": 1,
+  "speechiness": 0.121,
+  "acousticness": 0.107,
+  "instrumentalness": 0,
+  "liveness": 0.369,
+  "valence": 0.903,
+  "tempo": 139.992,
+  "type": "audio_features",
+  "id": "7xSFdlmMq6Nbamxvfpjg3t",
+  "uri": "spotify:track:7xSFdlmMq6Nbamxvfpjg3t",
+  "track_href": "https://api.spotify.com/v1/tracks/7xSFdlmMq6Nbamxvfpjg3t",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/7xSFdlmMq6Nbamxvfpjg3t",
+  "duration_ms": 101708,
+  "time_signature": 4
+}
+
+
+worship (gossip)
+Kirk Franklin - Love Theory
+https://open.spotify.com/track/08XnGAqrSwqr08vJ0t4py8
+{
+  "danceability": 0.745,
+  "energy": 0.677,
+  "key": 1,
+  "loudness": -5.355,
+  "mode": 1,
+  "speechiness": 0.215,
+  "acousticness": 0.181,
+  "instrumentalness": 0,
+  "liveness": 0.0895,
+  "valence": 0.72,
+  "tempo": 97.092,
+  "type": "audio_features",
+  "id": "08XnGAqrSwqr08vJ0t4py8",
+  "uri": "spotify:track:08XnGAqrSwqr08vJ0t4py8",
+  "track_href": "https://api.spotify.com/v1/tracks/08XnGAqrSwqr08vJ0t4py8",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/08XnGAqrSwqr08vJ0t4py8",
+  "duration_ms": 251258,
+  "time_signature": 4
+}
+
+
+Shane & ShaneThe Worship Initiative - "Behold The Lamb"
+https://open.spotify.com/track/2L6oInj5KFDnxQs9cUIS6Q
+{
+  "danceability": 0.426,
+  "energy": 0.388,
+  "key": 0,
+  "loudness": -12.084,
+  "mode": 1,
+  "speechiness": 0.0279,
+  "acousticness": 0.166,
+  "instrumentalness": 0,
+  "liveness": 0.102,
+  "valence": 0.268,
+  "tempo": 75.021,
+  "type": "audio_features",
+  "id": "2L6oInj5KFDnxQs9cUIS6Q",
+  "uri": "spotify:track:2L6oInj5KFDnxQs9cUIS6Q",
+  "track_href": "https://api.spotify.com/v1/tracks/2L6oInj5KFDnxQs9cUIS6Q",
+  "analysis_url": "https://api.spotify.com/v1/audio-analysis/2L6oInj5KFDnxQs9cUIS6Q",
+  "duration_ms": 305055,
   "time_signature": 4
 }
