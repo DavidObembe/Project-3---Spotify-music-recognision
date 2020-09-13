@@ -5,8 +5,10 @@ import os
 
 
 class Predictor():
+    def __init__(self):
+        pass
 
-    def predictGenreIndividual(acoustic, dance, duration, energy, instrumental, live, loud, speech, temp, val, popularity, key, mode):
+    def predictGenreIndividual(self, acoustic, dance, duration, energy, instrumental, live, loud, speech, temp, val, popularity, key, mode):
         
         #Create Dataframe with Test Track Information
         test_dict = {
@@ -25,6 +27,7 @@ class Predictor():
         "mode": mode
         }
         test_track = pd.DataFrame(test_dict, index=[0,])
+        # print(test_track)
 
         #Load Machine Learning Model
         loaded_scaler = pickle.load(open('Models/XGBoost_scaler.sav', 'rb'))
@@ -45,7 +48,7 @@ class Predictor():
         probability.values[0]
 
         predicted_genre = preds_test.idxmax(axis=1)
-        print(f'Test track has a {probability.values[0]} probability of being {predicted_genre.values[0]}') 
+        # print(f'Test track has a {probability.values[0]} probability of being {predicted_genre.values[0]}') 
         
         #Return Predicted Genre
         return predicted_genre.values[0]
