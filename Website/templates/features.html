@@ -47,6 +47,9 @@
                         <a class="nav-link" href="/mlmodels">ML Models <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item active">
+                        <a class="nav-link" href="/results">Results <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item active">
                         <a class="nav-link" href="/summary">Summary <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item active">
@@ -147,7 +150,7 @@
             <div class="col-sm-4">
                 <h1>Genre Map</h1>
                 <script type="module">
-                    import define from "./index.js"; import {Runtime, Library, Inspector} from "./runtime.js"; const runtime = new Runtime(); const main = runtime.module(define, Inspector.into(document.body));
+                    import define from "../static/index.js"; import {Runtime, Library, Inspector} from "../static/runtime.js"; const runtime = new Runtime(); const main = runtime.module(define, Inspector.into(document.body));
                 </script>
             </div>
         </div>
